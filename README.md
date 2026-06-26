@@ -4,6 +4,9 @@ A geospatial wildfire-risk mapping project using QGIS, Python, and open Earth ob
 
 Complements the [RICER wildfire prediction model](https://github.com/zaynebcherif) by adding the geospatial and visual layer to the ML/data-science workflow.
 
+<img width="2044" height="840" alt="qgis-morocco-wildfires" src="https://github.com/user-attachments/assets/b1c46681-3431-4115-80a6-4d190c976af8" />
+
+
 ---
 
 ## Project structure
